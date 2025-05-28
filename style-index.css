@@ -1,0 +1,40 @@
+.cabecario{
+
+    font-size:22px;
+    padding-top:10px;
+    display:flex;
+    justify-content:space-around
+
+}
+
+#logo {
+
+    width:95px ;
+
+}
+
+.pratos-principais{
+
+    
+
+}
+
+.img-pratos{
+
+    width: 500px;
+    height: 300px;
+
+}
+
+#Desc-Salmao {
+
+    
+
+}
+
+.centralizar-titulo{
+
+    padding-top: 40px;
+    text-align: center;
+}
+
